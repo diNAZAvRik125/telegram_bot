@@ -1,0 +1,5 @@
+/__pycache__
+/.idea
+!token.env
+!Kate_project.py
+!с инета
